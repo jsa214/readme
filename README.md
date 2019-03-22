@@ -1,2 +1,3 @@
-# readme
-my blog
+# README
+
+My blog.
